@@ -36,5 +36,6 @@ public class L1_07_SortArrayOf0s1sAnd2s {
         for (int cell : arr) {
             System.out.print(cell+" ");
         }
+        System.out.println();
     }
 }
