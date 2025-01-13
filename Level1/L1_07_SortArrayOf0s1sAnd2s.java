@@ -32,6 +32,7 @@ public class L1_07_SortArrayOf0s1sAnd2s {
         }
         dutchNationalFlag(arr, n);
         System.out.println("\nSorted  Array:");
+        // traverse the array
         for (int cell : arr) {
             System.out.print(cell+" ");
         }
